@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4a96ac0.css",
+    "main.js": "/static/js/main.afbee9e7.js",
+    "static/js/787.0f2a4e00.chunk.js": "/static/js/787.0f2a4e00.chunk.js",
+    "static/media/ig_logo.png": "/static/media/ig_logo.f6ae0ba2d59d79a3e08d.png",
+    "static/media/landing_image-min.jpg": "/static/media/landing_image-min.672fc1e3114e7ed86f24.jpg",
+    "static/media/Persona_2-min.png": "/static/media/Persona_2-min.5ee48bee0e61bdffe799.png",
+    "static/media/Persona_1-min.png": "/static/media/Persona_1-min.e21fbdee7828d038c978.png",
+    "index.html": "/index.html",
+    "main.c4a96ac0.css.map": "/static/css/main.c4a96ac0.css.map",
+    "main.afbee9e7.js.map": "/static/js/main.afbee9e7.js.map",
+    "787.0f2a4e00.chunk.js.map": "/static/js/787.0f2a4e00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4a96ac0.css",
+    "static/js/main.afbee9e7.js"
+  ]
+}
