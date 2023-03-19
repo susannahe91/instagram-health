@@ -21116,7 +21116,7 @@
                                   children: "Why Instagram?",
                                 }),
                                 (0, r.jsx)("img", {
-                                  src: "../../assets/competitive_audit-min.png",
+                                  src: "/assets/competitive_audit-min.png",
                                   className: "figure-img",
                                   id: "audit",
                                   alt: "Competitive audit between 4 apps: Instagram, Habitica, Snapchat, and BeReal.",
@@ -21155,7 +21155,7 @@
                                   className: "flow-1-container",
                                   children: [
                                     (0, r.jsx)("img", {
-                                      src: "../../assets/flow_1-min.png",
+                                      src: "/assets/flow_1-min.png",
                                       className: "figure-img",
                                       id: "flow-1",
                                       alt: "1st UX flow",
@@ -21181,7 +21181,7 @@
                                   className: "flow-2-container",
                                   children: [
                                     (0, r.jsx)("img", {
-                                      src: "../../assets/flow_2-min.png",
+                                      src: "/assets/flow_2-min.png",
                                       className: "figure-img",
                                       id: "flow-2",
                                       alt: "2nd UX flow",
@@ -21220,20 +21220,20 @@
                                 (0, r.jsx)("h3", { children: "UI Sketches" }),
                                 (0, r.jsx)("h5", { children: "User Flow 1" }),
                                 (0, r.jsx)("img", {
-                                  src: "../../assets/flow_1_sketch-1-min.png",
+                                  src: "/assets/flow_1_sketch-1-min.png",
                                   className: "figure-img",
                                   id: "sketch1-1",
                                   alt: "1st set of sketches, based on UX Flow 1 (part 1)",
                                 }),
                                 (0, r.jsx)("img", {
-                                  src: "../../assets/flow_1_sketch-2-min.png",
+                                  src: "/assets/flow_1_sketch-2-min.png",
                                   className: "figure-img",
                                   id: "sketch1-2",
                                   alt: "1st set of sketches, based on UX Flow 1 (part 2)",
                                 }),
                                 (0, r.jsx)("h5", { children: "User Flow 2" }),
                                 (0, r.jsx)("img", {
-                                  src: "../../assets/flow_2_sketch-min.png",
+                                  src: "/assets/flow_2_sketch-min.png",
                                   className: "figure-img",
                                   id: "sketch2",
                                   alt: "2nd set of sketches, based on UX Flow 2",
@@ -21259,13 +21259,13 @@
                                   children: "Prototype A (Flow 1)",
                                 }),
                                 (0, r.jsx)("img", {
-                                  src: "../../assets/Prototype_A-1-min.png",
+                                  src: "/assets/Prototype_A-1-min.png",
                                   className: "figure-img",
                                   id: "prototype1-1",
                                   alt: "First 4 screens of 1st Lo-fi prototype",
                                 }),
                                 (0, r.jsx)("img", {
-                                  src: "../../assets/Prototype_A-2-min.png",
+                                  src: "/assets/Prototype_A-2-min.png",
                                   className: "figure-img",
                                   id: "prototype1-2",
                                   alt: "Last 5 screens of 2nd Lo-fi prototype",
@@ -21286,13 +21286,13 @@
                                   children: "Prototype B (Flow 2)",
                                 }),
                                 (0, r.jsx)("img", {
-                                  src: "../../assets/Prototype_B-1-min.png",
+                                  src: "/assets/Prototype_B-1-min.png",
                                   className: "figure-img",
                                   id: "prototype2-1",
                                   alt: "First 4 screens of 2nd Lo-fi prototype",
                                 }),
                                 (0, r.jsx)("img", {
-                                  src: "../../assets/Prototype_B-2-min.png",
+                                  src: "/assets/Prototype_B-2-min.png",
                                   className: "figure-img",
                                   id: "prototype2-2",
                                   alt: "Last 4 screens of 2nd Lo-fi prototype",
@@ -21391,13 +21391,13 @@
                                 (0, r.jsx)("img", {
                                   className: "figure-img",
                                   id: "hifi-1",
-                                  src: "../../assets/HiFi-1-min.png",
+                                  src: "/assets/HiFi-1-min.png",
                                   alt: "First draft of high-fidelity prototypes (first 4 screens).",
                                 }),
                                 (0, r.jsx)("img", {
                                   className: "figure-img",
                                   id: "hifi-2",
-                                  src: "../../assets/HiFi-2-min.png",
+                                  src: "/assets/HiFi-2-min.png",
                                   alt: "First draft of high-fidelity prototypes (last 5 screens).",
                                 }),
                                 (0, r.jsx)("p", {
@@ -21418,7 +21418,7 @@
                                 (0, r.jsx)("img", {
                                   className: "figure-img",
                                   id: "alt-hifi",
-                                  src: "../../assets/Alternate_Screens-min.png",
+                                  src: "/assets/Alternate_Screens-min.png",
                                   alt: "Alternate screens for the home and search pages.",
                                 }),
                                 (0, r.jsx)("p", {
@@ -21477,7 +21477,7 @@
                                 (0, r.jsx)("img", {
                                   className: "figure-img",
                                   id: "before-after-home",
-                                  src: "../../assets/Before_and_After_Home-min.png",
+                                  src: "/assets/Before_and_After_Home-min.png",
                                   alt: "Before and after for home screen.",
                                 }),
                                 (0, r.jsxs)("p", {
@@ -21494,7 +21494,7 @@
                                 (0, r.jsx)("img", {
                                   className: "figure-img",
                                   id: "before-after-search",
-                                  src: "../../assets/Before_and_After_Search-min.png",
+                                  src: "/assets/Before_and_After_Search-min.png",
                                   alt: "Before and after for search screen.",
                                 }),
                                 (0, r.jsxs)("p", {
@@ -21522,13 +21522,13 @@
                                 (0, r.jsx)("img", {
                                   className: "figure-img",
                                   id: "final-hifi-1",
-                                  src: "../../assets/Final_HiFi-1-min.png",
+                                  src: "/assets/Final_HiFi-1-min.png",
                                   alt: "Final draft of high-fidelity prototypes (first 5 screens).",
                                 }),
                                 (0, r.jsx)("img", {
                                   className: "figure-img altscreen",
                                   id: "final-hifi-2",
-                                  src: "../../assets/Final_HiFi-2-min.png",
+                                  src: "/assets/Final_HiFi-2-min.png",
                                   alt: "Final draft of high-fidelity prototypes (last 4 screens).",
                                 }),
                               ],
